@@ -1,3 +1,3 @@
 # Gym-Website-Template
 
-This is the first website template which is created using Html and Css.
+This is the Dance website template which is created using Html and Css.
